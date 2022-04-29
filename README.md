@@ -1,8 +1,5 @@
 ### 개발자 허범성 👋
 
-<!--
-**hbsowo58/hbsowo58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -13,16 +10,14 @@
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=ffffff)
 
-
-
 ### 연락처
 [<img align="left" alt="허범성에게 이메일 보내기 링크 이미지" title="메일 보내기" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />][mail]
 [<img align="left" alt="허범성 블로그 방문하기 링크 이미지" title="블로그 방문하기" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
 [<img align="left" alt="허범성 유투브 방문하기 링크 이미지" title="유투브 방문하기" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="허범성 인스타그램 방문하기 링크 이미지" title="인스타그램 방문하기" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-
+<!--
+**hbsowo58/hbsowo58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
