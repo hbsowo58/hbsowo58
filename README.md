@@ -15,6 +15,53 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 
+<br>Html5:
+
+W3C 웹 표준 규격에 대한 이해와 사용 능력 보유
+접근성을 고려한 마크업
+시맨틱 태그 사용
+
+Css3:
+
+Cross-Browsing 이슈 해결 능력 보유
+SASS를 사용한 CSS 전처리 능력 보유
+
+Javascript:
+
+es6+ 최신 문법 이해
+자바스크립트 내부 동작 이해
+
+React
+
+hooks를 사용한 함수형 컴포넌트 사용
+전역 상태 라이브러리 redux 사용
+styled componet를 통한 style in js 사용
+
+typescript
+
+angular 프레임워크를 사용한 프로젝트 경험
+정적 타입에 대한 이해 보유
+
+---
+
+Git:
+
+버전 관리에 대한 이해
+
+AWS:
+
+AWS EC2, S3 Bucket 생성 및 관리
+
+기타
+
+Notion, Slack, Trello, GitHub 등을 통한 협업 경험
+
+Zeplin/Figma 등의 사용을 통한 디자인 툴 협업 경험
+
+<br>
+
+---
+
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
