@@ -64,8 +64,9 @@ Zeplin/Figma 등의 사용을 통한 디자인 툴 협업 경험
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbsowo58&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/hbsowo58)
+
+[![BEOMSUNG's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbsowo58)](https://github.com/hbsowo58/github-readme-stats)
 </div>
 
 <!--
