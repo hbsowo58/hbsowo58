@@ -66,34 +66,12 @@ Zeplin/Figma 등의 사용을 통한 디자인 툴 협업 경험
 
 <br>
 
----
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-
-[![BEOMSUNG's GitHub stats](https://github-readme-stats.vercel.app/api?username=hbsowo58)](https://github.com/hbsowo58/github-readme-stats)
+---  
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbsowo58&layout=compact" alt="Top Langs" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hbsowo" alt="Solved.ac Profile" />
 </div>
 
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbsowo58&layout=compact)](https://github.com/hbsowo58/github-readme-stats)
-</div>
-
-
-<!--
-**hbsowo58/hbsowo58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ![snake gif](https://github.com/hbsowo58/hbsowo58/blob/output/github-contribution-grid-snake.svg)
