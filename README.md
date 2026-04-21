@@ -1,4 +1,6 @@
-### 웹 개발자 & 강사 허범성 
+### 개발자 && 강사 허범성 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=develop+%26%26+instructor)](https://git.io/typing-svg)
 
 # 기술스택 👋
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
